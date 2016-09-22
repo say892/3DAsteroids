@@ -1,0 +1,7 @@
+Credits:
+
+Powerup Sound: http://www.freesound.org/people/RandomationPictures/sounds/138486/
+Ship Model: https://www.assetstore.unity3d.com/en/#!/content/32200
+Skybox: http://thebrb.com/stockpile/files/starfieldimage/starfield.png
+Explosion: https://scratch.mit.edu/projects/21506100/
+Pickups by Jorey Dixon
